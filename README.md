@@ -1,6 +1,6 @@
 # APED MARCOS — development downloads
 
-[Download APED MARCOS.exe](https://raw.githubusercontent.com/basnnetb/APED-MARCOS-Releases/main/APED%20MARCOS.exe)
+[Download APED MARCOS.exe](https://raw.githubusercontent.com/basnnetb/APED-MARCOS-Releases/e9df202ac1c9be4af14847be7f853e87152ccea5/APED%20MARCOS.exe)
 
 Download this one executable into a writable local folder and launch it. Future official updates are verified and installed automatically when the macro is OFF. Settings and configurations stay in your Windows user profile and survive updates.
 
