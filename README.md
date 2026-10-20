@@ -1,11 +1,13 @@
-# APED MARCOS — development downloads
+# APED MARCOS
 
-[Download APED MARCOS.exe](https://raw.githubusercontent.com/basnnetb/APED-MARCOS-Releases/352ad2e4cb8e5f0631dde6b33b869adc6dd75dc1/APED%20MARCOS.exe)
+[Download APED MARCOS v0.1.0](https://github.com/basnnetb/APED-MARCOS-Releases/releases/download/customer-v0.1.0/APED.MARCOS.exe)
 
-Download this one executable into a writable local folder and launch it. Future official updates are verified and installed automatically when the macro is OFF. Settings and configurations stay in your Windows user profile and survive updates.
+Download the single compiled executable into a writable local folder. A valid APED license key is required. No source files, scripts or separate configuration downloads are needed. OBS and Windows .NET Framework 4.8 remain application prerequisites.
 
-This is a development build for invited testing. Downloads are publicly accessible for now; anyone with the link can download them. Application source and publishing credentials are kept in a separate private repository.
+The app automatically checks for the customer build approved by the developer. Future approved upgrades and rollbacks are signature- and integrity-checked; settings remain in your Windows user profile. Developer builds and tools are kept in a separate private repository and never enter this customer channel.
 
-Only `APED MARCOS.exe` is needed. The `update.json` release asset is signed update metadata used by the app internally. GitHub normalizes the hosted release filename to `APED.MARCOS.exe`. The download link above preserves `APED MARCOS.exe`; both contain the same compiled app. GitHub's automatically generated archives contain only this download page and the compiled EXE, with no application source.
+This is an invited testing build. Downloads are publicly accessible for now; using the app still requires a valid license. GitHub normalizes the download filename to `APED.MARCOS.exe`; you may rename it `APED MARCOS.exe`.
 
-If an update cannot be verified or installed, the existing working version remains usable. Failed startup triggers rollback. Windows .NET Framework 4.8 is required (included with supported Windows 10/11 installations).
+If you used customer v0.0.2 or an old 43.x build, download this new EXE once. Approved automatic customer updates start with v0.1.0. Keep your existing Windows user settings in place.
+
+Historical releases are retained for recovery. A published customer candidate is not automatically approved for use. Compiled software can be reverse-engineered; compilation does not make it impossible to inspect.
