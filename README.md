@@ -1,6 +1,6 @@
 # APED MARCOS
 
-[Download APED MARCOS v0.1.0](https://github.com/basnnetb/APED-MARCOS-Releases/releases/download/customer-v0.1.0/APED.MARCOS.exe)
+[Download APED MARCOS v0.1.1](https://github.com/basnnetb/APED-MARCOS-Releases/releases/download/customer-v0.1.1/APED.MARCOS.exe)
 
 Download the single compiled executable into a writable local folder. A valid APED license key is required. No source files, scripts or separate configuration downloads are needed. OBS and Windows .NET Framework 4.8 remain application prerequisites.
 
